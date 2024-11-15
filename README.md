@@ -55,9 +55,6 @@ NAME : S KAVIYA
 REGISTER NUMBER : 212223040090
 
 
-
-
-
 import numpy as np
 
 L=[int(i) for i in input().split()]
